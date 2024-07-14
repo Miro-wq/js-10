@@ -7,7 +7,7 @@ const axiosInstance = axios.create({
     'x-api-key':
       'live_JPoam0RZFEIr8eokKzekS7HIt2LK2OoKkz2bJPYRJWgTaSAikbGrqGNxJ3OzQNJl',
   },
-  withCredentials: false, // Adăugăm această linie pentru a nu folosi cookie-uri terțe
+  withCredentials: false, // pt un favicon
 });
 
 async function fetchBreeds() {
