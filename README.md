@@ -74,9 +74,9 @@ It is very easy to test if the error is displayed correctly - change the request
 ![The interface](https://img.shields.io/badge/The%20interface-purple?style=for-the-badge)
 
 - Add minimal design to the interface elements.
-- You can use any library with beautiful select instead of select.breed-select. For example, https://slimselectjs.com/
-- You can use any library with beautiful CSS-loaders instead of p.loader. For example, https://cssloaders.github.io/
-- You can use any library with beautiful notifications instead of p.error For example, Notiflix
+- You can use any library with beautiful select instead of `select.breed-select`. For example, https://slimselectjs.com/
+- You can use any library with beautiful CSS-loaders instead of `p.loader`. For example, https://cssloaders.github.io/
+- You can use any library with beautiful notifications instead of `p.error`. For example, Notiflix
 
 
 
