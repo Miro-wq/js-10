@@ -10,9 +10,9 @@
 
 ![Features](https://img.shields.io/badge/Features-purple?style=for-the-badge)
 
-- **Dynamic Image Gallery:**: Images are loaded dynamically from an external source.
-- **SimpleLightbox Integration:**: Provides a smooth and visually appealing lightbox effect for viewing images.
-- **Modern JavaScript: **: Leverages ES6+ features, including modules and async/await for API calls.
+- **Dynamic Image Gallery:** Images are loaded dynamically from an external source.
+- **SimpleLightbox Integration:** Provides a smooth and visually appealing lightbox effect for viewing images.
+- **Modern JavaScript:** Leverages ES6+ features, including modules and async/await for API calls.
 
 ![Technologies Used](https://img.shields.io/badge/Technologies%20Used-purple?style=for-the-badge)
 
